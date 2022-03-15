@@ -6,8 +6,7 @@
 ## Contacts
 ***
 * **Discord:** zookzooki#7291
-* **E-mail:** zookzooki@mail.ru
-* **Tel:** +79276725233
+* **Telegram:** @zookzooki
 
 ## About myself
 ***
