@@ -43,5 +43,5 @@ function calculate(...firstArgs) {
 
 ## Languages
 ***
-* Russian - Native
-* English - EF school: Upper Intermediate (CEFR B2)
+* **Russian** - Native
+* **English** - EF school: Upper Intermediate (CEFR B2)
