@@ -1,11 +1,11 @@
 # Alina Khasbatova
 ***
 
-![mountains](./pic.jpg "Пейзаж с горами")
+![mountains](images/pic.jpg "Пейзаж с горами")
 
 ## Contacts
 ***
-* **Discord:** zookzooki#7291
+* **Discord:** zookzooki
 * **Telegram:** @zookzooki
 
 ## About myself
